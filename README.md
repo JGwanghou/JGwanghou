@@ -1,4 +1,4 @@
-프로필 작업중에 있습니다🎎
+프로필이 공사중에 있습니다.(__)🎎
 <!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&fontSize=55&fontAlign=70&fontAlignY=20&desc=I'm%20kwangho&descSize=20&rotate=-346.5&descAlign=70&descAlignY=40)
 <div align=center>
