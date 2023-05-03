@@ -19,12 +19,14 @@
   <br/>
   <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   </p>
   
   <span>🚗 <b>SNS LINE</b>🚗</span>
   <p>
-  <a href="https://kh-well.tistory.com/"><img src="https://img.shields.io/badge/tistory-yellow?style=flat-square&logo=Instagram&logoColor=white&link=https://kh-well.tistory.com/"/></a>
+  <a href="https://kh-well.tistory.com/"><img src="https://img.shields.io/badge/tistory-yellow?style=flat-square&logo=Tistory&logoColor=white&link=https://kh-well.tistory.com/"/></a>
   <a href="https://www.instagram.com/j_hlli/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hlli/"/></a>
   <a href="mailto:jgh0609@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jgh0609@gmail.com"/></a>
 </p>
