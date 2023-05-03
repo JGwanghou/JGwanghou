@@ -3,7 +3,7 @@
   <span>🙏 <b>Introduction</b></span><br/>
     <br/>
     <span>안녕하세요🎎</span><br>
-  <span>저는 자바 백엔드 개발자로 성장하고 있는 조광호입니다.</span><br/>
+    <span>저는 자바 백엔드 개발자로 성장하고 있는 조광호입니다.</span><br/>
   
   <br/>
   <span>🍀 <b>Skill</b></span><br/>
